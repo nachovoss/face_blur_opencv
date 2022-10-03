@@ -6,5 +6,5 @@ Sample code to blur faces using Open CV
 
 ## To use run the folowing commands:
   - pip install -r requirements.txt
-  - borroneo.py
+  - python borroneo.py
   
